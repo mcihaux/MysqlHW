@@ -7,7 +7,7 @@ var connection = mysql.createConnection({
     host : "localhost",
     user : "root",
     password : "",
-    database : "Just_Products"
+    database : "bamazon"
 });
 
 // Connecting to the Just_Products Database
